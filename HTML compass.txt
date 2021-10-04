@@ -1,0 +1,16 @@
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link href='https://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+<title>Compass</title>
+</head>
+
+<body>
+
+<div class="compass">
+<div class="compass-inner"><div class="north">N</div><div class="east">E</div><div class="west">W</div><div class="south">S</div><div class="main-arrow"><div class="arrow-up"></div><div class="arrow-down"></div></div></div>
+</div>
+
+</body>
+</html>
